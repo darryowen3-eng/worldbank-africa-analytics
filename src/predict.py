@@ -23,3 +23,14 @@ print()
 print("Predicted GDP")
 
 print(prediction[0])
+
+prediction_df = sample.copy()
+
+prediction_df["predicted_gdp"] = prediction
+
+prediction_df.to_csv(
+    "predictions/predictions.csv",
+    index=False
+)
+
+print("Predictions Saved")
