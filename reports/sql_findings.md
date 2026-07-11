@@ -5,10 +5,8 @@
 - Botswana has the highest GDP per capita.
 
 ## Inflation
-- ...
-
+- Zambia has the highest inflation
+- Namibia has the lowest inflation
 ## Life Expectancy
-- ...
-
-## Income Groups
-- ...
+- South Africa has the highest life expectancy
+- Uganda has the lowest
