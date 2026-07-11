@@ -5,3 +5,4 @@ from src.analysis import *
 from src.features import *
 from src.database import *
 from src.train import *
+from src.predict import *

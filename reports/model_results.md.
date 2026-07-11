@@ -1,0 +1,26 @@
+# Machine Learning Results
+
+## Model
+
+Linear Regression
+
+## Target
+
+GDP
+
+## Features
+
+- Population
+- Inflation
+- Poverty
+- Unemployment
+- Life Expectancy
+- Literacy
+
+## Metrics
+
+MAE: 29367217108.17258
+
+MSE: 2.947700582900738e+21
+
+R²: 0.5853785239057432
