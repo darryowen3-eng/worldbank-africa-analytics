@@ -76,7 +76,7 @@ Owen Darry
 ---
 ## Dashboards
 
-![Dashboard 1](visuals/client_information.png)
-![Dashboard 1](visuals/client_information.png)
-![Dashboard 1](visuals/client_information.png)
+![Dashboard 1](visuals/gdp_by_country.png)
+![Dashboard 1](visuals/life_expectancy.png)
+![Dashboard 1](visuals/population.png)
 
