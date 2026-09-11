@@ -76,3 +76,7 @@ Owen Darry
 ---
 ## Dashboards
 
+![Dashboard 1](visuals/client_information.png)
+![Dashboard 1](visuals/client_information.png)
+![Dashboard 1](visuals/client_information.png)
+
